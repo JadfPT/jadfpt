@@ -35,7 +35,7 @@ I'm a Computer Engineering student passionate about building software, learning 
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
   <img src="https://streak-stats.demolab.com?user=JadfPT&theme=tokyonight" />
     <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JadfPT&layout=compact&theme=tokyonight" />
